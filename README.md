@@ -4,4 +4,4 @@ Buscador de gifs usando API de Facebook y ReactJS
 
 # Usage
 
-[MIT](https://giftsearch-react.netlify.app/)
+[GifSearch in Netlify](https://gifsearch-react.netlify.app/)
